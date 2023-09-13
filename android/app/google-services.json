@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "702430539556",
+    "project_id": "chat-app-firebase-24740",
+    "storage_bucket": "chat-app-firebase-24740.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702430539556:android:efe00c74a5f57288648db1",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702430539556-jno8rat7tnqael488jl37qupu5ulln01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_lX3oHfDrtFwDgbywxIXP4UA2-AhPtEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702430539556-jno8rat7tnqael488jl37qupu5ulln01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
